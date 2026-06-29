@@ -1,0 +1,164 @@
+canonical_identifier: bkk:krp/KR3er028/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er028/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 陸地仙經
+  identifiers:
+    krp: KR3er028
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er028.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3er028_000-jc.yaml, hash: 'sha256:9836b3176a1aa9287ca8caa8a092ddbfa3beb55087ca2d331856eb37aff0da9b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er028_000-jc.markers.yaml, hash: 'sha256:530f79a70c6ef34cefbdfb5adcf94cd5676cd9216d859beeea876738aa2b5f37'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 360
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d3.h1s1
+    span:
+    - body
+    - 0
+    - 1525
+  label: 總論共百字二十句五言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d4.h1s1
+    span:
+    - body
+    - 1525
+    - 1673
+  label: 附一治眼九法
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5.h1s1
+    span:
+    - body
+    - 1673
+    - 7772
+  label: 附二茹穹子入道始終
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5d2
+    span:
+    - body
+    - 1682
+    - 1849
+  label: 入手
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5d3
+    span:
+    - body
+    - 1849
+    - 3864
+  label: 身法
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5d4
+    span:
+    - body
+    - 3864
+    - 5325
+  label: 得手
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5d5
+    span:
+    - body
+    - 5325
+    - 6940
+  label: 進步
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5d6
+    span:
+    - body
+    - 6940
+    - 7014
+  label: 入手
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5d7
+    span:
+    - body
+    - 7014
+    - 7064
+  label: 進步
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5d8
+    span:
+    - body
+    - 7064
+    - 7156
+  label: 數息
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5d9
+    span:
+    - body
+    - 7156
+    - 7264
+  label: 調息
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5d10
+    span:
+    - body
+    - 7264
+    - 7355
+  label: 胎息
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3er028_jc_000-d5d11
+    span:
+    - body
+    - 7355
+    - 7772
+  label: 丘真人呼吸歌
+  type: section
+  level: 2
+hash: sha256:98ecd31652c32aab8af17178e3d5df230cc279ab71cfbcefd63a526179fb5231
