@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er028_000.yaml, hash: 'sha256:3a68725eed540c996fbf11f4b4cf082835ab9f9e24e3963b7fa57d1e747370d2'}
+  - {seq: 0, filename: KR3er028_000.yaml, hash: 'sha256:9836b3176a1aa9287ca8caa8a092ddbfa3beb55087ca2d331856eb37aff0da9b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er028_000.markers.yaml, hash: 'sha256:56b5a6fbe796dc03db090749ccdfeca640a2ce18394b2e4979bacc8c14782706'}
+  - {seq: 0, role: markers, filename: assets/KR3er028_000.markers.yaml, hash: 'sha256:590c59af74f50a3e110e135cb58a2e41d78cd8c55383cbea8cb93e061a84b95d'}
 table_of_contents:
 - ref:
     seq: 0
@@ -161,7 +161,4 @@ table_of_contents:
   label: 丘真人呼吸歌
   type: section
   level: 2
-hash: sha256:5cb3274a73be5c2328f8a96f0d53e9d63d8afd48762d1cf647a0027f622d21f5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:e0a23a03bdb209982eef6eb94445cd0cfcfdd50c84bdd2389cc04d0d3cb1d586
