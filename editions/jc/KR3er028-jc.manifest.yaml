@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3er028_000-jc.yaml, hash: 'sha256:9836b3176a1aa9287ca8caa8a092ddbfa3beb55087ca2d331856eb37aff0da9b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er028_000-jc.markers.yaml, hash: 'sha256:530f79a70c6ef34cefbdfb5adcf94cd5676cd9216d859beeea876738aa2b5f37'}
+  - {seq: 0, role: markers, filename: assets/KR3er028_000-jc.markers.yaml, hash: 'sha256:702380c604cb121084a231accea7a1a67ae7571cdd8b9d9d66bb642b8eb8c2eb'}
 table_of_contents:
 - ref:
     seq: 0
@@ -161,4 +161,4 @@ table_of_contents:
   label: 丘真人呼吸歌
   type: section
   level: 2
-hash: sha256:98ecd31652c32aab8af17178e3d5df230cc279ab71cfbcefd63a526179fb5231
+hash: sha256:f6fbc0dc7a07fe68a6225ea9d4be1bf4990af8787f761981b2e2682df2ab1e9f
